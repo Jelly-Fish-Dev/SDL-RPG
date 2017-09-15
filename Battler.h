@@ -9,7 +9,6 @@
 //Player Class
 /*
 	The Class of the Battler Variables
-
 */
 class Battler
 {
